@@ -99,20 +99,20 @@ Authors
 Contributors
 ------------
 
-- `Tecnativa <https://www.tecnativa.com>`__:
+-  `Tecnativa <https://www.tecnativa.com>`__:
 
-  - Carlos Dauden
-  - Pedro M. Baeza
-  - Vicent Cubells
-  - Ernesto Tejeda
+   -  Carlos Dauden
+   -  Pedro M. Baeza
+   -  Vicent Cubells
+   -  Ernesto Tejeda
 
-- Loo <http://odooerp.cl/>`\_:
+-  Loo <http://odooerp.cl/>`\_:
 
-  - Carlos Lopez
+   -  Carlos Lopez
 
-- `Moduon <https://www.moduon.team>`__:
+-  `Moduon <https://www.moduon.team>`__:
 
-  - Eduardo de Miguel
+   -  Eduardo de Miguel
 
 Maintainers
 -----------
